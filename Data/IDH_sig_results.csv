@@ -1,0 +1,88 @@
+Gene:  ATM
+Fisher's Exact Test for Count Data
+p-val = 1.48e-02
+,Adult,AYA,Child,NA
+FALSE,104,141,4,0
+TRUE,6,0,0,0
+NA,0,0,0,0
+
+Gene:  EGFR
+Fisher's Exact Test for Count Data
+p-val = 3.64e-02
+,Adult,AYA,Child,NA
+FALSE,108,140,3,0
+TRUE,2,1,1,0
+NA,0,0,0,0
+
+Gene:  ERBB2
+Fisher's Exact Test for Count Data
+p-val = 3.64e-02
+,Adult,AYA,Child,NA
+FALSE,108,140,3,0
+TRUE,2,1,1,0
+NA,0,0,0,0
+
+Gene:  ETV5
+Fisher's Exact Test for Count Data
+p-val = 1.57e-02
+,Adult,AYA,Child,NA
+FALSE,110,141,3,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  FGFR2
+Fisher's Exact Test for Count Data
+p-val = 4.65e-02
+,Adult,AYA,Child,NA
+FALSE,109,140,3,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  FGFR3
+Fisher's Exact Test for Count Data
+p-val = 1.57e-02
+,Adult,AYA,Child,NA
+FALSE,110,141,3,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  GATA6
+Fisher's Exact Test for Count Data
+p-val = 4.65e-02
+,Adult,AYA,Child,NA
+FALSE,109,140,3,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  SMAD4
+Fisher's Exact Test for Count Data
+p-val = 2.39e-02
+,Adult,AYA,Child,NA
+FALSE,106,140,3,0
+TRUE,4,1,1,0
+NA,0,0,0,0
+
+Gene:  SMARCA4
+Fisher's Exact Test for Count Data
+p-val = 4.80e-02
+,Adult,AYA,Child,NA
+FALSE,109,131,4,0
+TRUE,1,10,0,0
+NA,0,0,0,0
+
+Gene:  TLR4
+Fisher's Exact Test for Count Data
+p-val = 3.12e-02
+,Adult,AYA,Child,NA
+FALSE,110,140,3,0
+TRUE,0,1,1,0
+NA,0,0,0,0
+
+Gene:  VHL
+Fisher's Exact Test for Count Data
+p-val = 1.57e-02
+,Adult,AYA,Child,NA
+FALSE,110,141,3,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+

@@ -1,0 +1,48 @@
+Gene:  ATM
+Fisher's Exact Test for Count Data
+p-val = 6.55e-03
+,Adult,AYA,NA
+FALSE,104,141,0
+TRUE,6,0,0
+NA,0,0,0
+
+Gene:  CDKN2A
+Fisher's Exact Test for Count Data
+p-val = 8.29e-02
+,Adult,AYA,NA
+FALSE,107,141,0
+TRUE,3,0,0
+NA,0,0,0
+
+Gene:  CIC
+Fisher's Exact Test for Count Data
+p-val = 6.95e-02
+,Adult,AYA,NA
+FALSE,110,136,0
+TRUE,0,5,0
+NA,0,0,0
+
+Gene:  KMT2A
+Fisher's Exact Test for Count Data
+p-val = 8.29e-02
+,Adult,AYA,NA
+FALSE,107,141,0
+TRUE,3,0,0
+NA,0,0,0
+
+Gene:  PDGFRA
+Fisher's Exact Test for Count Data
+p-val = 4.49e-02
+,Adult,AYA,NA
+FALSE,103,139,0
+TRUE,7,2,0
+NA,0,0,0
+
+Gene:  SMARCA4
+Fisher's Exact Test for Count Data
+p-val = 2.56e-02
+,Adult,AYA,NA
+FALSE,109,131,0
+TRUE,1,10,0
+NA,0,0,0
+

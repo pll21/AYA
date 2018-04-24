@@ -1,0 +1,400 @@
+Gene:  APC
+Fisher's Exact Test for Count Data
+p-val = 4.65e-02
+,Adult,AYA,Child,NA
+FALSE,971,106,68,0
+TRUE,21,0,4,0
+NA,0,0,0,0
+
+Gene:  ATRX
+Fisher's Exact Test for Count Data
+p-val = 2.23e-04
+,Adult,AYA,Child,NA
+FALSE,936,88,69,0
+TRUE,56,18,3,0
+NA,0,0,0,0
+
+Gene:  B2M
+Fisher's Exact Test for Count Data
+p-val = 3.74e-03
+,Adult,AYA,Child,NA
+FALSE,992,106,70,0
+TRUE,0,0,2,0
+NA,0,0,0,0
+
+Gene:  BCOR
+Fisher's Exact Test for Count Data
+p-val = 2.66e-03
+,Adult,AYA,Child,NA
+FALSE,975,102,66,0
+TRUE,17,4,6,0
+NA,0,0,0,0
+
+Gene:  BRAF
+Fisher's Exact Test for Count Data
+p-val = 3.45e-07
+,Adult,AYA,Child,NA
+FALSE,961,93,61,0
+TRUE,31,13,11,0
+NA,0,0,0,0
+
+Gene:  BRCA1
+Fisher's Exact Test for Count Data
+p-val = 7.61e-02
+,Adult,AYA,Child,NA
+FALSE,977,106,69,0
+TRUE,15,0,3,0
+NA,0,0,0,0
+
+Gene:  BRCA2
+Fisher's Exact Test for Count Data
+p-val = 4.77e-02
+,Adult,AYA,Child,NA
+FALSE,967,105,67,0
+TRUE,25,1,5,0
+NA,0,0,0,0
+
+Gene:  BUB1B
+Fisher's Exact Test for Count Data
+p-val = 1.25e-02
+,Adult,AYA,Child,NA
+FALSE,989,104,70,0
+TRUE,3,2,2,0
+NA,0,0,0,0
+
+Gene:  CEBPA
+Fisher's Exact Test for Count Data
+p-val = 6.37e-02
+,Adult,AYA,Child,NA
+FALSE,990,104,72,0
+TRUE,2,2,0,0
+NA,0,0,0,0
+
+Gene:  CREBBP
+Fisher's Exact Test for Count Data
+p-val = 4.22e-02
+,Adult,AYA,Child,NA
+FALSE,965,106,68,0
+TRUE,27,0,4,0
+NA,0,0,0,0
+
+Gene:  CYLD
+Fisher's Exact Test for Count Data
+p-val = 1.66e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,69,0
+TRUE,4,0,3,0
+NA,0,0,0,0
+
+Gene:  DIS3
+Fisher's Exact Test for Count Data
+p-val = 2.28e-02
+,Adult,AYA,Child,NA
+FALSE,986,105,69,0
+TRUE,6,1,3,0
+NA,0,0,0,0
+
+Gene:  EGFR
+Fisher's Exact Test for Count Data
+p-val = 2.19e-02
+,Adult,AYA,Child,NA
+FALSE,822,96,66,0
+TRUE,170,10,6,0
+NA,0,0,0,0
+
+Gene:  EPHA5
+Fisher's Exact Test for Count Data
+p-val = 2.77e-02
+,Adult,AYA,Child,NA
+FALSE,983,102,70,0
+TRUE,9,4,2,0
+NA,0,0,0,0
+
+Gene:  ERBB2
+Fisher's Exact Test for Count Data
+p-val = 3.32e-02
+,Adult,AYA,Child,NA
+FALSE,985,105,69,0
+TRUE,7,1,3,0
+NA,0,0,0,0
+
+Gene:  ETV5
+Fisher's Exact Test for Count Data
+p-val = 3.14e-02
+,Adult,AYA,Child,NA
+FALSE,985,106,69,0
+TRUE,7,0,3,0
+NA,0,0,0,0
+
+Gene:  EXT1
+Fisher's Exact Test for Count Data
+p-val = 7.78e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,70,0
+TRUE,4,0,2,0
+NA,0,0,0,0
+
+Gene:  FGFR1
+Fisher's Exact Test for Count Data
+p-val = 7.65e-03
+,Adult,AYA,Child,NA
+FALSE,977,100,69,0
+TRUE,15,6,3,0
+NA,0,0,0,0
+
+Gene:  FKBP9
+Fisher's Exact Test for Count Data
+p-val = 4.67e-03
+,Adult,AYA,Child,NA
+FALSE,989,105,69,0
+TRUE,3,1,3,0
+NA,0,0,0,0
+
+Gene:  FUS
+Fisher's Exact Test for Count Data
+p-val = 6.22e-02
+,Adult,AYA,Child,NA
+FALSE,991,105,71,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  GATA1
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  GLI2
+Fisher's Exact Test for Count Data
+p-val = 1.47e-02
+,Adult,AYA,Child,NA
+FALSE,987,105,69,0
+TRUE,5,1,3,0
+NA,0,0,0,0
+
+Gene:  GNA11
+Fisher's Exact Test for Count Data
+p-val = 7.78e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,70,0
+TRUE,4,0,2,0
+NA,0,0,0,0
+
+Gene:  GNA13
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  GNAQ
+Fisher's Exact Test for Count Data
+p-val = 3.74e-03
+,Adult,AYA,Child,NA
+FALSE,992,106,70,0
+TRUE,0,0,2,0
+NA,0,0,0,0
+
+Gene:  GPR124
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  H3F3A
+Fisher's Exact Test for Count Data
+p-val = 2.03e-18
+,Adult,AYA,Child,NA
+FALSE,988,87,66,0
+TRUE,4,19,6,0
+NA,0,0,0,0
+
+Gene:  KRAS
+Fisher's Exact Test for Count Data
+p-val = 4.21e-02
+,Adult,AYA,Child,NA
+FALSE,987,104,70,0
+TRUE,5,2,2,0
+NA,0,0,0,0
+
+Gene:  LZTR1
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  MAP3K1
+Fisher's Exact Test for Count Data
+p-val = 6.31e-02
+,Adult,AYA,Child,NA
+FALSE,978,106,69,0
+TRUE,14,0,3,0
+NA,0,0,0,0
+
+Gene:  MYB
+Fisher's Exact Test for Count Data
+p-val = 1.66e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,69,0
+TRUE,4,0,3,0
+NA,0,0,0,0
+
+Gene:  MYCN
+Fisher's Exact Test for Count Data
+p-val = 4.84e-02
+,Adult,AYA,Child,NA
+FALSE,988,105,70,0
+TRUE,4,1,2,0
+NA,0,0,0,0
+
+Gene:  NFKBIZ
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  NOTCH2
+Fisher's Exact Test for Count Data
+p-val = 1.69e-02
+,Adult,AYA,Child,NA
+FALSE,975,103,67,0
+TRUE,17,3,5,0
+NA,0,0,0,0
+
+Gene:  NRAS
+Fisher's Exact Test for Count Data
+p-val = 1.43e-02
+,Adult,AYA,Child,NA
+FALSE,987,106,69,0
+TRUE,5,0,3,0
+NA,0,0,0,0
+
+Gene:  PDGFRA
+Fisher's Exact Test for Count Data
+p-val = 2.37e-02
+,Adult,AYA,Child,NA
+FALSE,955,96,68,0
+TRUE,37,10,4,0
+NA,0,0,0,0
+
+Gene:  PHF6
+Fisher's Exact Test for Count Data
+p-val = 6.22e-02
+,Adult,AYA,Child,NA
+FALSE,991,105,71,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  PPM1D
+Fisher's Exact Test for Count Data
+p-val = 6.22e-02
+,Adult,AYA,Child,NA
+FALSE,991,105,71,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  PRPF40B
+Fisher's Exact Test for Count Data
+p-val = 2.18e-02
+,Adult,AYA,Child,NA
+FALSE,986,106,69,0
+TRUE,6,0,3,0
+NA,0,0,0,0
+
+Gene:  PRPF8
+Fisher's Exact Test for Count Data
+p-val = 2.18e-02
+,Adult,AYA,Child,NA
+FALSE,986,106,69,0
+TRUE,6,0,3,0
+NA,0,0,0,0
+
+Gene:  PTEN
+Fisher's Exact Test for Count Data
+p-val = 1.46e-16
+,Adult,AYA,Child,NA
+FALSE,655,93,72,0
+TRUE,337,13,0,0
+NA,0,0,0,0
+
+Gene:  RP4-806M20.3
+Fisher's Exact Test for Count Data
+p-val = 1.19e-02
+,Adult,AYA,Child,NA
+FALSE,992,104,72,0
+TRUE,0,2,0,0
+NA,0,0,0,0
+
+Gene:  SDHD
+Fisher's Exact Test for Count Data
+p-val = 6.15e-02
+,Adult,AYA,Child,NA
+FALSE,992,106,71,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  SMAD4
+Fisher's Exact Test for Count Data
+p-val = 7.78e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,70,0
+TRUE,4,0,2,0
+NA,0,0,0,0
+
+Gene:  SMC3
+Fisher's Exact Test for Count Data
+p-val = 5.03e-02
+,Adult,AYA,Child,NA
+FALSE,989,106,70,0
+TRUE,3,0,2,0
+NA,0,0,0,0
+
+Gene:  STAG1
+Fisher's Exact Test for Count Data
+p-val = 1.25e-02
+,Adult,AYA,Child,NA
+FALSE,989,104,70,0
+TRUE,3,2,2,0
+NA,0,0,0,0
+
+Gene:  STAT6
+Fisher's Exact Test for Count Data
+p-val = 7.78e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,70,0
+TRUE,4,0,2,0
+NA,0,0,0,0
+
+Gene:  STK11
+Fisher's Exact Test for Count Data
+p-val = 4.67e-03
+,Adult,AYA,Child,NA
+FALSE,989,105,69,0
+TRUE,3,1,3,0
+NA,0,0,0,0
+
+Gene:  TP53
+Fisher's Exact Test for Count Data
+p-val = 7.55e-02
+,Adult,AYA,Child,NA
+FALSE,746,69,55,0
+TRUE,246,37,17,0
+NA,0,0,0,0
+
+Gene:  ZNF217
+Fisher's Exact Test for Count Data
+p-val = 7.78e-02
+,Adult,AYA,Child,NA
+FALSE,988,106,70,0
+TRUE,4,0,2,0
+NA,0,0,0,0
+

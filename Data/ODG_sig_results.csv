@@ -1,0 +1,128 @@
+Gene:  BCOR
+Fisher's Exact Test for Count Data
+p-val = 3.69e-02
+,Adult,AYA,Child,NA
+FALSE,133,52,2,0
+TRUE,5,0,1,0
+NA,0,0,0,0
+
+Gene:  CIC
+Fisher's Exact Test for Count Data
+p-val = 6.89e-03
+,Adult,AYA,Child,NA
+FALSE,79,41,3,0
+TRUE,59,11,0,0
+NA,0,0,0,0
+
+Gene:  CSF1R
+Fisher's Exact Test for Count Data
+p-val = 2.21e-02
+,Adult,AYA,Child,NA
+FALSE,137,51,2,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  EGFR
+Fisher's Exact Test for Count Data
+p-val = 6.49e-02
+,Adult,AYA,Child,NA
+FALSE,136,52,2,0
+TRUE,2,0,1,0
+NA,0,0,0,0
+
+Gene:  EPHA5
+Fisher's Exact Test for Count Data
+p-val = 2.21e-02
+,Adult,AYA,Child,NA
+FALSE,137,51,2,0
+TRUE,1,1,1,0
+NA,0,0,0,0
+
+Gene:  FANCA
+Fisher's Exact Test for Count Data
+p-val = 9.66e-02
+,Adult,AYA,Child,NA
+FALSE,134,51,2,0
+TRUE,4,1,1,0
+NA,0,0,0,0
+
+Gene:  FANCE
+Fisher's Exact Test for Count Data
+p-val = 6.60e-02
+,Adult,AYA,Child,NA
+FALSE,136,51,2,0
+TRUE,2,1,1,0
+NA,0,0,0,0
+
+Gene:  FBXW7
+Fisher's Exact Test for Count Data
+p-val = 3.97e-02
+,Adult,AYA,Child,NA
+FALSE,135,52,2,0
+TRUE,3,0,1,0
+NA,0,0,0,0
+
+Gene:  GNA13
+Fisher's Exact Test for Count Data
+p-val = 1.55e-02
+,Adult,AYA,Child,NA
+FALSE,138,52,2,0
+TRUE,0,0,1,0
+NA,0,0,0,0
+
+Gene:  GNAS
+Fisher's Exact Test for Count Data
+p-val = 3.69e-02
+,Adult,AYA,Child,NA
+FALSE,133,52,2,0
+TRUE,5,0,1,0
+NA,0,0,0,0
+
+Gene:  IDH1
+Fisher's Exact Test for Count Data
+p-val = 4.52e-04
+,Adult,AYA,Child,NA
+FALSE,16,12,3,0
+TRUE,122,40,0,0
+NA,0,0,0,0
+
+Gene:  MED12
+Fisher's Exact Test for Count Data
+p-val = 6.49e-02
+,Adult,AYA,Child,NA
+FALSE,136,52,2,0
+TRUE,2,0,1,0
+NA,0,0,0,0
+
+Gene:  MLH1
+Fisher's Exact Test for Count Data
+p-val = 6.34e-02
+,Adult,AYA,Child,NA
+FALSE,134,52,2,0
+TRUE,4,0,1,0
+NA,0,0,0,0
+
+Gene:  SETD2
+Fisher's Exact Test for Count Data
+p-val = 1.44e-02
+,Adult,AYA,Child,NA
+FALSE,121,52,3,0
+TRUE,17,0,0,0
+NA,0,0,0,0
+
+Gene:  SMARCB1
+Fisher's Exact Test for Count Data
+p-val = 3.69e-02
+,Adult,AYA,Child,NA
+FALSE,133,52,2,0
+TRUE,5,0,1,0
+NA,0,0,0,0
+
+Gene:  TERT
+Fisher's Exact Test for Count Data
+p-val = 2.01e-02
+,Adult,AYA,Child,NA
+FALSE,126,52,2,0
+TRUE,12,0,1,0
+NA,0,0,0,0
+
